@@ -1,0 +1,393 @@
+{
+    "student": [
+      {
+        "id": "44567827",
+        "name": "نیلوفر",
+        "lastName": "رهگذر",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567828",
+        "name": "متین",
+        "lastName": "یوسفی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567829",
+        "name": "سامیار",
+        "lastName": "محمدی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567830",
+        "name": "رادین",
+        "lastName": "احمدی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567831",
+        "name": "الناز",
+        "lastName": "عباسی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567832",
+        "name": "آذین",
+        "lastName": "محمودی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567833",
+        "name": "آرام",
+        "lastName": "نجفی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567834",
+        "name": "هستی",
+        "lastName": "بابازاده",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567835",
+        "name": "سهیلا",
+        "lastName": "آقاپور",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567836",
+        "name": "مهتاب",
+        "lastName": "کمالی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567837",
+        "name": "پناه",
+        "lastName": "نجف پور",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567838",
+        "name": "شقایق",
+        "lastName": "رحیمی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567839",
+        "name": "هلنا",
+        "lastName": "اقتداری",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567840",
+        "name": "آنا",
+        "lastName": "برزگر",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "45678411",
+        "name": "شهرزاد",
+        "lastName": "پورمحمدی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "45678423",
+        "name": "مهرداد",
+        "lastName": "اشرفی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "45678439",
+        "name": "رها",
+        "lastName": "سراج",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "45678440",
+        "name": "عسل",
+        "lastName": "حمیدی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567823",
+        "name": "نسیم",
+        "lastName": "تهرانی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567824",
+        "name": "پیمان",
+        "lastName": "بابایی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567825",
+        "name": "مهسا",
+        "lastName": "هدایتی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "44567826",
+        "name": "آرمین",
+        "lastName": "عنایتی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "45678454",
+        "name": "غزل",
+        "lastName": "نیک پور",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "45678461",
+        "name": "رامین",
+        "lastName": "رحمتی",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      },
+      {
+        "id": "45678478",
+        "name": "نگین",
+        "lastName": "خداپرست",
+        "major": "کامپیوتر",
+        "selectedCourses": []
+      }
+    ],
+    "course": [
+      {
+        "id": "1213",
+        "courseName": "پایگاه داده",
+        "courseCredit": "3",
+        "professorName": "آرش",
+        "professorLastName": "رضایی"
+      },
+      {
+        "id": "1214",
+        "courseName": "ریاضی",
+        "courseCredit": "3",
+        "professorName": "عاطفه",
+        "professorLastName": "احمدی"
+      },
+      {
+        "id": "1215",
+        "courseName": "فیزیک",
+        "courseCredit": "3",
+        "professorName": "ستاره",
+        "professorLastName": "پناهی"
+      },
+      {
+        "id": "1216",
+        "courseName": "مدار منطقی",
+        "courseCredit": "3",
+        "professorName": "پریسا",
+        "professorLastName": "معتمدی"
+      },
+      {
+        "id": "1217",
+        "courseName": "معماری کامپیوتر",
+        "courseCredit": "3",
+        "professorName": "اشکان",
+        "professorLastName": "آرام فر"
+      },
+      {
+        "id": "1218",
+        "courseName": "هوش مصنوعی",
+        "courseCredit": "3",
+        "professorName": "پارسا",
+        "professorLastName": "خطیبی"
+      },
+      {
+        "id": "1219",
+        "courseName": "آزمایشگاه فیزیک",
+        "courseCredit": "1",
+        "professorName": "بهرام",
+        "professorLastName": "پرتویی"
+      },
+      {
+        "id": "1220",
+        "courseName": "طراحی پایگاه داده",
+        "courseCredit": "3",
+        "professorName": "بهاره",
+        "professorLastName": "کمالی"
+      },
+      {
+        "id": "1221",
+        "courseName": "آزمایشگاه سیستم عامل",
+        "courseCredit": "1",
+        "professorName": "ستاره",
+        "professorLastName": "مجیدی"
+      },
+      {
+        "id": "1222",
+        "courseName": "زبان خارجی",
+        "courseCredit": "2",
+        "professorName": "سامان",
+        "professorLastName": "محمدی"
+      },
+      {
+        "id": "1223",
+        "courseName": "برنامه سازی پیشرفته",
+        "courseCredit": "3",
+        "professorName": "کیوان",
+        "professorLastName": "مهاجر"
+      },
+      {
+        "id": "1224",
+        "courseName": "زبان تخصصی کامپیوتر",
+        "courseCredit": "2",
+        "professorName": "ساسان",
+        "professorLastName": "رحمتی"
+      },
+      {
+        "id": "1225",
+        "courseName": "طراحی کامپایلر",
+        "courseCredit": "3",
+        "professorName": "آرزو",
+        "professorLastName": "ایران منش"
+      },
+      {
+        "id": "1226",
+        "courseName": "شبکه های کامپیوتری",
+        "courseCredit": "3",
+        "professorName": "مهسا",
+        "professorLastName": "تابناک"
+      },
+      {
+        "id": "1227",
+        "courseName": "امنیت داده و شبکه",
+        "courseCredit": "3",
+        "professorName": "کیانوش",
+        "professorLastName": "علیپور"
+      }
+    ],
+    "professor": [
+      {
+        "id": "89876",
+        "name": "آرش",
+        "lastName": "رضایی",
+        "course": "پایگاه داده"
+  
+      },
+      {
+        "id": "85678",
+        "name": "عاطفه",
+        "lastName": "احمدی",
+        "course": "ریاضی"
+  
+      },
+      {
+        "id": "76854",
+        "name": "ستاره",
+        "lastName": "پناهی",
+        "course": "فیزیک"
+  
+      },
+      {
+        "id": "83456",
+        "name": "پریسا",
+        "lastName": "معتمدی",
+        "course": "مدار منطقی"
+  
+      },
+      {
+        "id": "81234",
+        "name": "اشکان",
+        "lastName": "آرام فر",
+        "course": "معماری کامپیوتر"
+  
+      },
+      {
+        "id": "89231",
+        "name": "پارسا",
+        "lastName": "خطیبی",
+        "course": "هوش مصنوعی"
+  
+      },
+      {
+        "id": "84563",
+        "name": "بهرام",
+        "lastName": "پرتویی",
+        "course": "آزمایشگاه فیزیک"
+  
+      },
+      {
+        "id": "79851",
+        "name": "بهاره",
+        "lastName": "کمالی",
+        "course": "طراحی پایگاه داده"
+  
+      },
+      {
+        "id": "67845",
+        "name": "ستاره",
+        "lastName": "مجیدی",
+        "course": "آزمایشگاه سیستم عامل"
+  
+      },
+      {
+        "id": "65478",
+        "name": "سامان",
+        "lastName": "محمدی",
+        "course": "زبان خارجی"
+  
+      },
+      {
+        "id": "71237",
+        "name": "کیوان",
+        "lastName": "مهاجر",
+        "course": "برنامه سازی پیشرفته"
+  
+      },
+      {
+        "id": "74352",
+        "name": "ساسان",
+        "lastName": "رحمتی",
+        "course": "زبان تخصصی کامپیوتر"
+  
+      },
+      {
+        "id": "56784",
+        "name": "آرزو",
+        "lastName": "ایران منش",
+        "course": "طراحی کامپایلر"
+  
+      },
+      {
+        "id": "70865",
+        "name": "مهسا",
+        "lastName": "تابناک",
+        "course": "شبکه های کامپیوتری"
+  
+      },
+      {
+        "id": "43098",
+        "name": "کیانوش",
+        "lastName": "علیپور",
+        "course": "امنیت داده و شبکه"
+  
+      }
+    ]
+  }
